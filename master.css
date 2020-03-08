@@ -1,0 +1,7 @@
+.picture{
+  image-rendering:crisp-edges;
+  image-rendering:pixelated;
+  height: 120px;
+  width:100px;
+
+}
